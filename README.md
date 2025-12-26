@@ -1,4 +1,4 @@
-# Bill-Splitting-Template
+# Bill-Splitting-Automation-Tool
 Purpose: To create a spreadsheet that calculates the bill for each person
 
 Suppose you and your group of friends went to Costco and the items you all decide to buy are split between different people. Since one person needs to pay at the end and calculating how much each person owe is a pain, this spreadsheet helps you calculate that amount. Of course, it's not limited to just Costco trips - it's for any trips that involves bill splitting. 
